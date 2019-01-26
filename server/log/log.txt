@@ -1,0 +1,14 @@
+
+[25-Jan-2019 18:45:03] [data-editor-dev/server/index.php] : [INFO] - POST LOGIN_REQUEST
+
+[25-Jan-2019 18:45:04] [data-editor-dev/server/index.php] : [INFO] - POST LOGIN_REQUEST
+
+[25-Jan-2019 18:45:05] [data-editor-dev/server/index.php] : [INFO] - POST LOGIN_REQUEST
+
+[25-Jan-2019 18:45:05] [data-editor-dev/server/index.php] : [INFO] - POST LOGIN_REQUEST
+
+[25-Jan-2019 18:46:40] [data-editor-dev/server/index.php] : [INFO] - POST LOGIN_REQUEST
+
+[25-Jan-2019 18:46:41] [data-editor-dev/server/index.php] : [INFO] - POST GET_DATA
+
+[25-Jan-2019 18:47:04] [data-editor-dev/server/index.php] : [INFO] - POST LOGOUT_REQUEST
